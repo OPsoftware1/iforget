@@ -1,0 +1,5 @@
+{
+	"ip":"CrazySMPbt62.aternos.me",
+	"port": "54357",
+	"name": "JustPlay"
+}
